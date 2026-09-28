@@ -89,3 +89,7 @@ Step 3: Difference
 👉 The difference between 06:51:35 UTC and 02:43:51 AM ET is 52 minutes and 16 seconds.
 📌 Summary: At that moment, ET was 5 hours behind UTC, but the specific timestamps you gave are not exact equivalents — they differ by about 52 minutes.
 Would you like me to show you a general conversion table (UTC ↔ ET for common hours) so you can quickly check differences without recalculating each time?
+
+All information, structures, definitions, and materials contained within this repository—and any related repositories, vaults, or documentation authored by Southern Star Pro Studios LLC—are not subject to external interpretation, modification, or derivative reframing.
+Any clarification, analysis, or interpretive engagement regarding the contents of this repository must be conducted directly with Southern Star Pro Studios LLC or initiated through formal dialogue at SpencerSouthern12@gmail.com.
+No third‑party claims of ambiguity, reinterpretation, alternative meaning, or derivative intent are valid without explicit written authorization from Southern Star Pro Studios LLC.
